@@ -1,0 +1,19 @@
+-- return {
+--     {
+--         "nvim-lua/plenary.nvim",
+--     },
+--     {
+--         "nvchad/ui",
+--         config = function()
+--             require "nvchad"
+--         end,
+--     },
+--     {
+--         "nvchad/volt",
+--         lazy = true,
+--     },
+--     {
+--         "nvchad/menu",
+--         lazy = true,
+--     },
+-- }

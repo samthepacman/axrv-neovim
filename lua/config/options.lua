@@ -1,0 +1,32 @@
+-- Options are automatically loaded before lazy.nvim startup
+-- Default options that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
+-- Add any additional options here
+--
+-- require("onedark").load()
+
+
+-- Theme
+-- require('everblush').setup({
+-- 
+--     -- Default options
+--     override = {},
+--     transparent_background = true,
+--     nvim_tree = {
+--         contrast = true,
+--     },
+-- 
+--     -- Configuration examples
+-- 
+--     -- Override the default highlights using Everblush or other colors
+--     override = {
+--         Normal = { fg = '#ffffff', bg = 'comment' },
+--     },
+-- 
+--     -- Set transparent background
+--     transparent_background = true,
+-- 
+--     -- Set contrast for nvim-tree highlights
+--     nvim_tree = {
+--         contrast = true,
+--     },
+-- })
